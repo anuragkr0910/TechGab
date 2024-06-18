@@ -29,6 +29,7 @@ namespace TechGab.API.Controllers
                 URLHandle = request.URLHandle
             };
 
+            // Perform database transactions
             await categoryRepository.CreateAsync(category);
 
             // Map response Domain Model to Category DTO
