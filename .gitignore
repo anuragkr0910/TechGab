@@ -44,4 +44,5 @@ testem.log
 .DS_Store
 Thumbs.db
 
-UI/techgab/.angular/cache/
+/UI/techgab/.angular/cache/
+API/TechGab.API/.vs/TechGab.API/v17/DocumentLayout.json
