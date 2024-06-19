@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TechGab.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8660e3db3923aaacac84d0bd1333864944d81ac")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c56179c1de494f289f5d03a0c4c86eb2b06d4d1c")]
 [assembly: System.Reflection.AssemblyProductAttribute("TechGab.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TechGab.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
